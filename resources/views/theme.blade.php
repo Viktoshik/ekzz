@@ -8,7 +8,8 @@
     <title>Document</title>
 </head>
 <body>
-
+<a href="/categories">Категории</a>
+<a href="/products">Продукты</a>
 @yield('content')
 
 </body>
